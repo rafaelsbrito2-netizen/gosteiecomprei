@@ -1,0 +1,6 @@
+{
+  "name": "Redirecionador Inteligente de WhatsApp",
+  "description": "Sistema para divisão de tráfego e redirecionamento de cliques de forma equilibrada para múltiplos grupos de WhatsApp com estatísticas e alertas integrados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
