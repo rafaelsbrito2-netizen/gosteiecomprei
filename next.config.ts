@@ -24,8 +24,7 @@ const nextConfig: NextConfig = {
 
   output: 'standalone',
 
-  basePath: '/painel-admin',
-  assetPrefix: '/painel-admin',
+
 
   transpilePackages: ['motion'],
 
